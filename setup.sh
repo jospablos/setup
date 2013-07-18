@@ -41,4 +41,5 @@ ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 
+cd setup
 git config --global user.email <josep.saucedoi@gmail.com>
